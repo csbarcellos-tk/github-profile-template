@@ -14,7 +14,7 @@ Just follow the steps below:
 Just edit the part inside the parentheses `(https://...)` with your own URLs.
 
 Example:  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR LINK HERE)
+[![Instagram] (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](YOUR LINK HERE)
 
 Update the icons with your own links:
 
