@@ -28,7 +28,8 @@ Update the icons with your own links:
 - Gmail  
 - Portfolio  
 
----
+You can get these icons at: **https://img.shields.io**
+
 
 ### 2️⃣ Change Your Name  
 
